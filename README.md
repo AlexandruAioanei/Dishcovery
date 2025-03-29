@@ -39,3 +39,19 @@ it changes** to finalize the upload.
 - **Stefan Roman**
 - **Radu Bocu**
 
+## Gallery: 
+
+![image](https://github.com/user-attachments/assets/7040b01d-2e3b-4a8c-a6cd-e2abc395f05a)
+![image](https://github.com/user-attachments/assets/c396c6f8-8c33-47d2-bcad-0334e7759deb)
+![image](https://github.com/user-attachments/assets/91e02d54-159f-46db-ba6b-cd80da7a955c)
+![image](https://github.com/user-attachments/assets/00407a4f-a24e-4ca9-a02b-4675600acd4b)
+![image](https://github.com/user-attachments/assets/6791ba4c-bea7-49cf-a90c-796a88195470)
+![image](https://github.com/user-attachments/assets/49317a12-5b0a-430f-8ae9-530016acc6a9)
+![image](https://github.com/user-attachments/assets/ab374b45-c1ac-47ad-bd55-04e56d36ff34)
+![image](https://github.com/user-attachments/assets/4130c4f1-290e-41ef-a669-f0ab51ab3aad)
+![image](https://github.com/user-attachments/assets/7dbf273d-4ecb-4f22-9395-a49fdaaf50f2)
+![image](https://github.com/user-attachments/assets/e220f294-fbc8-48bd-a733-5770bac72392)
+
+
+
+
