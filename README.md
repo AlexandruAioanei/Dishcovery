@@ -31,7 +31,6 @@ Contributions are welcome! Feel free to fork the repository, make your improveme
 
 ## Contact
 For any questions or issues, feel free to open an issue on GitHub or reach out directly.
-it changes** to finalize the upload.
 
 ## Main Contributors to the Project: 
 - **Alexandru Aioanei**
