@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+<<<<<<< HEAD
+    tools:context=".MainActivity"
+    android:background="@color/material_dynamic_neutral20">
+
+    <nl.joery.animatedbottombar.AnimatedBottomBar
+        android:background="@color/design_default_color_surface"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:abb_selectedTabType="text"
+        app:abb_tabColor="@color/black"
+        app:abb_tabColorSelected="@color/material_dynamic_primary10"
+        app:abb_textSize="20sp"
+        app:abb_iconSize="38dp"
+        app:abb_textStyle="bold"
+        app:abb_rippleEnabled="true"
+        app:abb_rippleColor="#ADBDD7"
+        app:abb_tabAnimationSelected="slide"
+        app:abb_indicatorAppearance="round"
+        app:abb_indicatorColor="@color/material_dynamic_primary10"
+        app:abb_indicatorHeight="6dp"
+        app:abb_animationInterpolator="@android:anim/overshoot_interpolator"
+        app:abb_tabs="@menu/menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        >
+
+
+    </nl.joery.animatedbottombar.AnimatedBottomBar>
+=======
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="268dp"
+        android:layout_height="118dp"
+        android:layout_marginBottom="52dp"
+        android:text="@string/welcome"
+        android:textSize="50dp"
+        app:layout_constraintBottom_toTopOf="@+id/button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:text="Button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+>>>>>>> b6c0f68 (ba am facut plm un mesaj de welcome cu un buton care sa duca catre login page da nu i gata inca)
+
+</androidx.constraintlayout.widget.ConstraintLayout>
