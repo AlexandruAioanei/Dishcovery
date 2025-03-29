@@ -33,9 +33,9 @@ Contributions are welcome! Feel free to fork the repository, make your improveme
 For any questions or issues, feel free to open an issue on GitHub or reach out directly.
 it changes** to finalize the upload.
 
-##Main Contributors to the Project: 
-**Alexandru Aioanei**
-**Laurian Duma**
-**Stefan Roman**
-**Radu Bocu**
+## Main Contributors to the Project: 
+- **Alexandru Aioanei**
+- **Laurian Duma**
+- **Stefan Roman**
+- **Radu Bocu**
 
